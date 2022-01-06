@@ -13,7 +13,7 @@
       "email": "1005945366@qq.com"
     }
   ],
-  "minimum-stability": "master",
+  "minimum-stability": "beta",
   "require": {
     "php": "^7.2.5|^8.0"
   },
