@@ -13,6 +13,6 @@
             "email": "1005945366@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "require": {}
 }
