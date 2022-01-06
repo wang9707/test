@@ -1,5 +1,5 @@
 <?php
-
+namespace Wang9707\Test;
 
 class Test
 {
